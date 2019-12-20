@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">XposedCopy</string>
+    <string name="accessibility_desc">开启辅助功能能够自动帮您获取imei</string>
+    <string name="check_app_service">标准定价辅助服务</string>
+</resources>
